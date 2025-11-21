@@ -364,7 +364,7 @@ body.dark-theme .footer-bottom {
 .unemployment-stats {
     display: grid;
     grid-template-columns: 1fr 1.5fr;
-    gap: 2rem;
+    gap: 20rem;
     padding: 4rem 2rem;
     align-items: center;
 }
